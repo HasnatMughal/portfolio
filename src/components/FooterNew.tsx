@@ -21,7 +21,7 @@ function FooterNew() {
         <div className="flex flex-wrap gap-4 justify-center">
             <a href="https://github.com/HasnatMughal" target="_blank" className="border border-white px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all">GitHub</a>
             <a href="https://linkedin.com/in/hasnat-ahmed-1b4b252a8" target="_blank" className="border border-white px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all">LinkedIn</a>
-            <a href="mailto:your@email.com" className="bg-white text-black px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-gray-200 transition-all">Contact Me</a>
+            <a href="mailto:mughasnat377@gmail.com" className="bg-white text-black px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-gray-200 transition-all">Contact Me</a>
         </div>
 
         {/* Copyright */}
