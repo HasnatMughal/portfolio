@@ -22,6 +22,7 @@ function FooterNew() {
             <a href="https://github.com/HasnatMughal" target="_blank" className="border border-white px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all">GitHub</a>
             <a href="https://linkedin.com/in/hasnat-ahmed-1b4b252a8" target="_blank" className="border border-white px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-white hover:text-black transition-all">LinkedIn</a>
             <a href="mailto:mughasnat377@gmail.com" className="bg-white text-black px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-gray-200 transition-all">Contact Me</a>
+            <a href="https://wa.me/923360734067" className="bg-white text-black px-6 py-3 rounded-full text-sm uppercase tracking-widest hover:bg-gray-200 transition-all">Whatsapp</a>
         </div>
 
         {/* Copyright */}
