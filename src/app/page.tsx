@@ -85,7 +85,7 @@ WEB APPLICATIONS THAT STAND OUT. </p>
               
             </motion.div>
             
-            <div className="mt-5 flex justify-center md:justify-end w-full"><Link href={"https://utfs.io/f/1sNLbqtigOlK9Uqa9oY3EIrvjyTHg7ZdL4CAeiQbR0mDfzcw"} className="border w-32 text-center hover:text-white hover:bg-black px-4 py-2 rounded-2xl">View CV</Link ><Link href={"#contact"} className="border hover:text-white hover:bg-black px-4 w-32 text-center py-2 rounded-2xl">Let's Talk</Link></div>
+            <div className="mt-5 flex justify-center md:justify-end w-full"><Link href={"https://drive.google.com/file/d/1FjNPAK6qGokAG2ossv8pqX2Z68xbnhiH/view?usp=drive_link"} className="border w-32 text-center hover:text-white hover:bg-black px-4 py-2 rounded-2xl">View CV</Link ><Link href={"#contact"} className="border hover:text-white hover:bg-black px-4 w-32 text-center py-2 rounded-2xl">Let's Talk</Link></div>
         </section>
         <motion.section initial={{ opacity: 0, y: 30 }}
     whileInView={{ opacity: 1, y: 0 }}
